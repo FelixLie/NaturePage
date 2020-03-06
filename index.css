@@ -25,7 +25,7 @@ body{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.7);
 	transition: 0.3s;
 	border-bottom: solid white 1px;
-	
+	width:100%
 }
 
 .navbar a{
@@ -181,13 +181,13 @@ h1 {
   }
 
 
-@media screen and (max-width: 2000px) {
+@media screen and (max-width: 1000px) {
 	.column25 {
 	  width: 100%;
 	  float:left;
 	}
   }
-  @media screen and (max-width: 2000px) {
+  @media screen and (max-width: 1000px) {
 	.column70 {
 	  width: 100%;	
 	}
