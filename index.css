@@ -1,3 +1,15 @@
+@media screen and (max-width: 1000px) {
+	.column25 {
+	  width: 100%;
+	  float:none;
+	}
+  }
+  @media screen and (max-width: 1000px) {
+	.column70 {
+	  width: 100%;
+	  float:none;	
+	}
+  }
 
 body{
 	margin:0;	
