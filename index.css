@@ -185,10 +185,12 @@ h1 {
 	.column25 {
 	  width: 98%;
 	  float:left;
+	  margin-right:1em;
 	}
   }
   @media screen and (max-width: 1000px) {
 	.column70 {
 	  width: 98%;	
+	  margin-right:1em;
 	}
   }
